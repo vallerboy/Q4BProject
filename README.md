@@ -1,6 +1,6 @@
 # Q4BProject
 
-Prosty projekt wykonany dla Q4B.
+Prosty projekt rekrutacyjny wykonany dla Q4B.
 
 Biblioteki : 
 Picasso - Jedna z najlepszych bilbiotek do cachowania i pobierania obrazków. Działa w osobnym wątku, stąd pominięcie multithreadingu.
