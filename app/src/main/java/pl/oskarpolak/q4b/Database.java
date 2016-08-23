@@ -39,7 +39,7 @@ public class Database extends SQLiteOpenHelper{
 
     }
 
-    public void addLink(String link) {
+    private  void addLink(String link) {
         SQLiteDatabase database = getWritableDatabase();
         ContentValues value =  new ContentValues();
         value.put("link", link);
